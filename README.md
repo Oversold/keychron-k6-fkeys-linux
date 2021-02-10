@@ -9,7 +9,7 @@ in terminal
 
 STEP 2
 
-input the following
+input the following:
 
 [Unit]
 Description=The command to make the Keychron K2 work

@@ -3,7 +3,8 @@
 
 STEP 1
 
-sudo nano /etc/systemd/system/keychron.service
+in terminal
+"sudo nano /etc/systemd/system/keychron.service"
 
 
 STEP 2
@@ -25,7 +26,7 @@ then save/exit
 STEP 3
 
 in terminal
-  systemctl enable keychron
+  "systemctl enable keychron"
   
 STEP 4
 
